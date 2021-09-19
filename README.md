@@ -1,10 +1,11 @@
+<div style="display: inline-block">
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e desenvolvimento** no <a href="http://fatecjd.edu.br/">Fatec Jundiaí</a>.
 - 💼 &nbsp; Trabalhando como **Estágiario Tecnico com foco em frontend** na <a href="https://venturus.org.br/">Venturus - Developing the future</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento web e também backend com nodejs, express, e nestjs**.
-
+<img src="https://www.gifcen.com/wp-content/uploads/2021/02/demon-slayer-gif-1.gif" alt="Gif"/>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Andre Martini](https://img.shields.io/badge/-andremartini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-martini-70b14b192/)](https://www.linkedin.com/in/andr%C3%A9-martini-70b14b192/)
