@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm André Martini</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
-- 🌱 I’m currently learning typescript and I want to learn elixir in the future **React with typescript and nestjs(https://www.udemy.com/course/nestjs-zero-to-hero/)**
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Analise e desenvolvimento** no <a href="http://fatecjd.edu.br/">Fatec Jundiaí</a>.
+- 💼 &nbsp; Trabalhando como **Estágiario Tecnico com foco em frontend** na <a href="https://venturus.org.br/">Venturus - Developing the future</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento web e também backend com nodejs, express, e nestjs**.
 
-- 💬 Ask me about **react, react-konva, vuejs, web development**
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-- 📫 How to reach me **andremartini.10@gmail.com**
-
-- ⚡ Fun fact **I like sports, series, movies and travels**
-
+[![Linkedin: Andre Martini](https://img.shields.io/badge/-andremartini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-martini-70b14b192/)](https://www.linkedin.com/in/andr%C3%A9-martini-70b14b192/)
+[![Gmail Badge](https://img.shields.io/badge/-andremartini.10@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andremartini.10@gmail.com)](mailto:andremartini.10@gmail.com)
+[![GitHub MartiniAndre]( https://img.shields.io/github/followers/martiniandre?label=follow&style=social)](https://github.com/martiniandre)
 
 
 
@@ -30,4 +31,10 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martiniandre&show_icons=true)
+
+
+## 🐱‍👓 Tecnologias utilizadas nos projetos
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+
 
