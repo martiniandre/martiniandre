@@ -35,6 +35,6 @@
 
 ## 🐱‍👓 Tecnologias utilizadas nos projetos
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martiniandre&theme=dracula&hide_langs_below=1" />
 
 
