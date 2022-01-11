@@ -2,8 +2,9 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Analise e desenvolvimento** no <a href="http://fatecjd.edu.br/">Fatec Jundiaí</a>.
-- 💼 &nbsp; Trabalhando como **Estágiario Tecnico com foco em frontend** na <a href="https://venturus.org.br/">Venturus - Developing the future</a>
+- 🎓 &nbsp; Graduado em Analise e Desenvolvimento na <a href="http://fatecjd.edu.br/">Fatec Jundiaí</a>.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor fullstack** na <a href="https://venturus.org.br/">Venturus - Developing the future</a>
+- 🐱‍👤 &nbsp; Conhecimentos solidos em HTML, CSS3, Javascript, ReactJs, NextJs e VueJs
 - 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento web e também backend com nodejs, express, e nestjs**.
 <img src="https://www.gifcen.com/wp-content/uploads/2021/02/demon-slayer-gif-1.gif" alt="Gif"/>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
