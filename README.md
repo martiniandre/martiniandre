@@ -1,4 +1,4 @@
-<img align="center" src="https://im5.ezgif.com/tmp/ezgif-5-e329dc4018.gif" alt="Illustration" width=920 height=260/>
+<img align="center" src="https://im5.ezgif.com/tmp/ezgif-5-e329dc4018.gif" alt="Illustration" width=800 height=260/>
 <br/>
 <a href="https://fontmeme.com/pt/fonte-de-pokemon/"><img src="https://fontmeme.com/permalink/220725/51c3b3b02a07567102aab317322ee495.png" alt="fonte-de-shang-shi" border="0"></a>
 <br/>
