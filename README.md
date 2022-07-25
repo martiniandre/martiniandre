@@ -1,20 +1,57 @@
-<div style="display: inline-block">
-**<h3> :man: &nbsp;About me </h3>**
+<img align="center" src="https://i.pinimg.com/originals/58/2f/bb/582fbb4259b2ea8f182844686ba7f39c.gif" alt="Illustration" width=1000 height=150/>
+<a href="https://fontmeme.com/pt/fonte-de-pokemon/"><img src="https://fontmeme.com/permalink/211027/ae01e0ef0c30579981eefc2dca9c4cbb.png" alt="fonte-de-pokemon" border="0"></a>
 
-- 🤔 &nbsp; **Exploring new techs and creating new software solution**
-- 💼 &nbsp; **Working as a Fullstack developer at <a href="https://venturus.org.br/">Venturus - Developing the future</a>**
-- 🐱‍👤 &nbsp; **Solid knowledges in HTML, CSS3, Javascript, ReactJs, NextJs and VueJs**
-- 🌱 &nbsp; **Learning about Web Development and looking to learn NodeJs, Express and NestJs** .
+![Profile views](https://gpvc.arturio.dev/martiniandre)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## [![About Me](https://fontmeme.com/permalink/211027/f15c79215e82179551a6d874ccb6abb0.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
+  - 👨🏽‍💻 Hi my name is **Andre** and I'm a **Fullstack Developer, working on Venturus!**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martiniandre&show_icons=true&locale=en&layout=compact" alt="martiniandre" /></p>
+  - 📚 I’m currently studying: **Front-end and Back-end with React, Node.js and Typescript.**
 
-<div style="display: block">
-<h3 align="left">Connect with me:</h3>
+  - ℹ️ Hobbies: **Games 🎮 | Music 🎧 | Soccer ⚽**
+
+  - 📫 How to reach me: **andremartini.10@gmail.com**
+
+## [![Github Analytics](https://fontmeme.com/permalink/211027/be6fb00c112c4f841169e0e77ea27a3a.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Charizard](https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif)
 <p align="left">
-<a href="https://linkedin.com/in/martiniandre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martiniandre" height="30" width="40" /></a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=martiniandre&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="martiniandre" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=martiniandre&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="martiniandre" />
 </p>
-</div>
 
+## [![Tech Stack](https://fontmeme.com/permalink/211027/50b50884f8ad587c57f541cd88670895.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Ho-oh](https://img.pokemondb.net/sprites/black-white/anim/normal/ho-oh.gif)
+![HTML](https://img.shields.io/badge/-HTML5-121214?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-121214?style=flat&logo=css3&logoColor=1572B6)
+![Javascript](https://img.shields.io/badge/-Javascript-121214?style=flat&logo=javascript)
+![SASS](https://img.shields.io/badge/-SASS-121214?style=flat&logo=sass)
+![React.js](https://img.shields.io/badge/-React-121214?style=flat&logo=react)
+![Typescript](https://img.shields.io/badge/-Typescript-121214?style=flat&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next-121214?style=flat&logo=next.js)
+<br /><br />
+![Node.js](https://img.shields.io/badge/-Nodejs-121214?style=flat&logo=node.js)
+<br /><br />
+![Git](https://img.shields.io/badge/-Git-121214?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-121214?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VisualStudioCode-121214?style=flat&logo=visualstudiocode&logoColor=1572B9)
+
+## [![Socials](https://fontmeme.com/permalink/211027/79dbaf06524adc6d95cc6e4e17cbf777.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Zekrom](https://img.pokemondb.net/sprites/black-white/anim/normal/zekrom.gif)
+<a href="https://www.linkedin.com/in/martiniandre/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-121214?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
+
+## [![Favorite Repo's](https://fontmeme.com/permalink/211029/ca7c57ba244e74616ef9c50e90047114.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Darkrai](https://img.pokemondb.net/sprites/black-white/anim/normal/darkrai.gif)
+<p align="center">
+  <a href="https://github.com/martiniandre/aim-lab-konva">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=aim-lab-konva&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/martiniandre/gallery">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=gallery&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+  </a>
+  <span>&nbsp;</span>
+  <br/>
+  <a href="https://github.com/martiniandre/pokedex">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=pokedex&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/martiniandre/study-group">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=study-group&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+  </a>
+</p>
