@@ -42,19 +42,19 @@
 ## [![Favorite Repo's](https://fontmeme.com/permalink/220725/d3303a6118c79c5dd16d6dc488033334.png)](https://fontmeme.com/shang-chi-font/) ![Darkrai](https://img.pokemondb.net/sprites/black-white/anim/normal/darkrai.gif)
 <p align="center">
   <a href="https://github.com/martiniandre/aim-lab-konva">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=aim-lab-konva&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=aim-lab-konva&theme=shades-of-purple" />
   </a>
   <span>&nbsp;</span>
   <a href="https://github.com/martiniandre/gallery">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=gallery&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=gallery&theme=shades-of-purple" />
   </a>
   <span>&nbsp;</span>
   <br/>
   <a href="https://github.com/martiniandre/pokedex">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=pokedex&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=pokedex&theme=shades-of-purple" />
   </a>
   <span>&nbsp;</span>
   <a href="https://github.com/martiniandre/study-group">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=study-group&theme=slateorange&bg_color=bbb8b2&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=study-group&theme=shades-of-purple" />
   </a>
 </p>
