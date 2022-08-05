@@ -4,8 +4,6 @@
 <br/>
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=martiniandre&style=for-the-badge)
-
 ## [![About Me](https://fontmeme.com/permalink/220725/f2af0ecaef06ca923c02e737407b87b9.png)](https://fontmeme.com/shang-chi-font/) ![Victini](https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif)
   - 👨🏽‍💻 Hi my name is **Andre** and I'm a **Fullstack Developer, working on Venturus!**
 
