@@ -42,14 +42,14 @@
   <a href="https://github.com/martiniandre/aim-lab-konva">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=aim-lab-konva&theme=shades-of-purple" />
   </a>
-  <span>&nbsp;</span>
-  <a href="https://github.com/martiniandre/gallery">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=gallery&theme=shades-of-purple" />
+  <a href="https://github.com/martiniandre/pokedex">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=pokedex&theme=shades-of-purple" />
   </a>
   <span>&nbsp;</span>
   <br/>
-  <a href="https://github.com/martiniandre/pokedex">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=pokedex&theme=shades-of-purple" />
+  <br/>
+  <a href="https://github.com/martiniandre/gallery">
+    <img width='49%' src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=gallery&theme=shades-of-purple" />
   </a>
 </p>
 <br/>
