@@ -51,10 +51,6 @@
   <a href="https://github.com/martiniandre/pokedex">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=pokedex&theme=shades-of-purple" />
   </a>
-  <span>&nbsp;</span>
-  <a href="https://github.com/martiniandre/study-group">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martiniandre&repo=study-group&theme=shades-of-purple" />
-  </a>
 </p>
 <br/>
 
