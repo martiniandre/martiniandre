@@ -53,7 +53,3 @@
   </a>
 </p>
 <br/>
-
-## [![Listen](https://fontmeme.com/permalink/220725/7e2d469a3a65527bfc7cdb21dbedf340.png)](https://fontmeme.com/shang-chi-font/) ![Reshiram](https://img.pokemondb.net/sprites/black-white/anim/normal/reshiram.gif)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21b4ilrgaxynbvlm7ihc2vojy&cover_image=true&theme=novatorem)](https://github.com/martiniandre/spotify-github-profile)
